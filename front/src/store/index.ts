@@ -22,7 +22,6 @@ export default new Vuex.Store({
       return EventService.traerHospitales()
         .then((response: { data: any }) => {
           commit('UPDATE_HOSPITALES', response.data)
-          console.log("melo")
         })
         .catch((error: any) => {
           console.log(error);
