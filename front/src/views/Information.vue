@@ -26,7 +26,7 @@
     <br />
     <br />
     <div class="info-data">
-      <h6>Dirección: <strong>{{this.kaka}}</strong> </h6> 
+      <h6>Dirección: <strong>{{this.hospital.direccion}}</strong> </h6> 
       <h6>Telefono: <strong>{{this.hospital.telefono}}</strong></h6>
       <h6>Cantidad de médicos: <strong>{{this.hospital.cantidadDoctores}}</strong></h6>
       <h6>Médicos disponibles: <strong>{{this.hospital.doctoresLibres}}</strong></h6>
@@ -45,7 +45,6 @@ export default {
       disponibilidad: 20,
       textoDisponibilidad: "Baja",
       hospital: {},
-      kaka: "kaka"
     };
   },
   beforeMount() {
