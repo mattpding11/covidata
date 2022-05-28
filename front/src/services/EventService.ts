@@ -11,18 +11,15 @@ const apiClient = axios.create({
 
 export default{
  traerHospitales() {
-  console.log("melo")
   console.log("traerhospitlaes",apiClient.get('/traerHospitales'))
     return apiClient.get('/traerHospitales') 
   }
 ,
     agregarHospital(payload:any) {
-      console.log("melo")
           console.log(typeof(apiClient.post('/agregarHospital', payload)))
     return apiClient.post('/agregarHospital', payload)
   },
    crearUsuarios(payload:any) {
-    console.log("melo")
     console.log(typeof(apiClient.post('/crearUsuarios', payload)))
     return apiClient.post('/crearUsuarios', payload)
   }
