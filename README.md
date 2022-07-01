@@ -25,7 +25,7 @@ Este proyecto fue desarrollado en conjunto con José David Sánchez.
 
 ### Contact me
  
-🌐 Portafolio web: https://mattpding11.github.io/mateo 
+🌐 Portafolio: https://mattpding11.github.io/mateo 
   
 🌐 LinkedIn: https://github.com/mattpding11
   
