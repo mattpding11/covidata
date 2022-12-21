@@ -1,4 +1,4 @@
-# CoviData
+# CoviData | Vue, PHP
 
 :::important Como usar la aplicación
 -	Se debe primero importar la base de datos **covid-data.sql**
