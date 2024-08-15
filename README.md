@@ -27,7 +27,7 @@ Este proyecto fue desarrollado en conjunto con José David Sánchez.
  
 🌐 Portafolio: https://mattpding11.github.io/mateo 
   
-🌐 LinkedIn: https://github.com/mattpding11
+🌐 LinkedIn: https://www.linkedin.com/in/mateo-penaranda-diaz-fullstack-developer/
   
 ✉️ Correo: mateo_1999_7@outlook.es
 
